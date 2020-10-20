@@ -1,0 +1,11 @@
+@font-face
+{
+    font-family: "Custom";
+    src: url("Custom_text/HindSiliguri-Regular.ttf");
+}
+body
+{
+   text-align: center;
+    background-color: gray;
+    font-family: Custom
+}
