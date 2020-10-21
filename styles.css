@@ -1,11 +1,15 @@
 @font-face
 {
     font-family: "Custom";
-    src: url("Custom_text/HindSiliguri-Regular.ttf");
+    src: url("Roboto_Mono/static/RobotoMono-Regular.ttf");
 }
 body
 {
    text-align: center;
-    background-color:white;
+    background-color:#121212;
     font-family: Custom
+}
+h1{
+    /*color: #bb86fc;*/
+    font-size: xx-large;
 }
