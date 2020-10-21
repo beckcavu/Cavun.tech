@@ -1,4 +1,12 @@
-function resize_iframe(obj)
+function changeButtonHTML(obj)
 {
-    obj.style.height = obj.contenWindow.document.documentElement.scrollHeight + 'px';
+    if (obj.innerHTML == "Dark Mode")
+    {
+        obj.innerHTML = "Light Mode";
+        return
+    }
+    else{
+        obj.innerHTML = "Dark Mode";
+        return;
+    }
 }
