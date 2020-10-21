@@ -8,8 +8,13 @@ body
    text-align: center;
     background-color:#121212;
     font-family: Custom
+    
 }
 h1{
     /*color: #bb86fc;*/
     font-size: xx-large;
+}
+h3
+{
+    color: white   ;
 }
