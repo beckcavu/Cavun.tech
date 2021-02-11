@@ -3,19 +3,14 @@
     src: url(/Roboto_Mono/RobotoMono-VariableFont_wght.ttf);
 }
 body {
-	background-image: url("stolentestpic.png");
+	background-image: url("engpic.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.flex-parent {
-  display: flex;
-}
-
-.jc-center {
-  justify-content: center;
-}
-
-button.margin-right {
-  margin-right: 20px;
+.homeBtn {
+	margin: 8%;
+	height: 60px;
+	width: 120px;
+	font-size: large;
 }
 
